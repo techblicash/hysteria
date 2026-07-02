@@ -1,0 +1,2 @@
+"""Proxy GUI Client MVP."""
+

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vs/
+proxy_gui_client/logs/*.log
+proxy_gui_client/data/generated_config.json
+proxy_gui_client/data/tmp/
+cores/
+build/
+dist/
+release/
+*.spec

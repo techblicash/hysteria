@@ -1,0 +1,42 @@
+﻿{
+    "core_type":  "sing-box",
+    "core_path":  "C:\\Users\\Admin-1\\Documents\\hysteria\\cores\\sing-box\\sing-box.exe",
+    "config_path":  "proxy_gui_client/data/generated_config.json",
+    "http_port":  7890,
+    "socks_port":  7891,
+    "subscription_url":  "http://166.1.18.164:22928/aaa9f98f-be3f-41dc-a547-5a1aff018f88/v2rayn",
+    "test_timeout_seconds":  5,
+    "latency_test_url":  "https://www.gstatic.com/generate_204",
+    "latency_timeout":  5,
+    "system_proxy_on_start":  false,
+    "disable_system_proxy_on_stop":  true,
+    "table_column_widths":  {
+                                "name":  180,
+                                "type":  80,
+                                "server":  220,
+                                "port":  80,
+                                "source":  100,
+                                "tcp_latency":  100,
+                                "url_latency":  100,
+                                "status":  160
+                            },
+    "node_filter_preferences":  {
+                                    "keyword":  "",
+                                    "node_type":  "all",
+                                    "source":  "all",
+                                    "availability":  "all",
+                                    "sort_by":  "default",
+                                    "batch_scope":  "filtered"
+                                },
+    "minimize_to_tray":  true,
+    "close_to_tray":  true,
+    "start_minimized":  false,
+    "autostart_enabled":  false,
+    "auto_connect_on_start":  false,
+    "last_selected_node_identity":  "",
+    "last_selected_node_name":  "",
+    "tray_show_notifications":  true,
+    "recent_node_identities":  [
+
+                               ]
+}
